@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ubi.coach.ico",
     "slug": "ubi-coach-site",
     "status": "down",
-    "uptime": "10.83%",
-    "uptimeDay": "10.83%",
-    "uptimeWeek": "10.83%",
-    "uptimeMonth": "10.83%",
-    "uptimeYear": "10.83%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 162,
     "timeDay": 162,
     "timeWeek": 162,
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-12-30": 0
+      "2022-12-30": 18
     }
   }
 ]
